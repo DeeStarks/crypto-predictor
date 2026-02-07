@@ -1,0 +1,10 @@
+data/cache
+data/storage
+models/saved
+logs
+Pipfile*
+venv
+env
+.venv
+.env
+__pycache__
